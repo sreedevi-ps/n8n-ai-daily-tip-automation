@@ -26,7 +26,8 @@ Schedule Trigger → OpenAI → Send Email
 
 ## Screenshot
 
-(Add workflow screenshot here)
+<img width="1903" height="916" alt="image" src="https://github.com/user-attachments/assets/f047f9d6-25ca-4344-b8d9-f6446426573d" />
+
 
 ## Future Improvements
 
